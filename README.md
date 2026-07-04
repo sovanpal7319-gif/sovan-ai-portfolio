@@ -1,36 +1,125 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🚀 Sovan Pal | AI & ML Portfolio
 
-## Getting Started
+A modern, responsive portfolio website showcasing my projects, skills, and research interests in Artificial Intelligence, Machine Learning, Deep Learning, NLP, and Intelligent Systems.
 
-First, run the development server:
+## 🌐 Live Demo
+
+👉 https://sovan-ai-portfolio.vercel.app
+
+---
+
+## ✨ Features
+
+- Modern futuristic UI
+- Responsive design
+- Smooth animations with Framer Motion
+- Dark theme
+- Interactive project showcase
+- Skills & technologies section
+- Research interests
+- Contact section
+- SEO optimized
+- Fast loading with Next.js
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+
+### UI & Animation
+- Framer Motion
+- Lucide React
+- React Icons
+
+### Deployment
+- Vercel
+
+---
+
+## 📂 Sections
+
+- Hero
+- About
+- Skills
+- Projects
+- Research Interests
+- Certifications
+- Contact
+
+---
+
+## 🚀 Featured Projects
+
+### AI Supply Chain Risk Intelligence
+AI-powered system for analyzing news and market signals to identify supply chain risks using NLP.
+
+### Distributed Market Analyst
+Distributed AI platform for scalable market intelligence and intelligent agent-based analysis.
+
+### Startup Success Prediction
+Machine Learning model that predicts startup success using funding and business-related features.
+
+### Custom Coin Collector using Reinforcement Learning
+A reinforcement learning environment where an intelligent agent learns optimal coin collection strategies.
+
+---
+
+## ⚙️ Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/sovanpal7319/sovan-ai-portfolio.git
+```
+
+Move into the project
+
+```bash
+cd sovan-ai-portfolio
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Start the development server
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```
+http://localhost:3000
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 📬 Contact
 
-To learn more about Next.js, take a look at the following resources:
+**Sovan Pal**
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+📧 Email: your-email@example.com
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+💼 LinkedIn:
+https://linkedin.com/in/your-profile
 
-## Deploy on Vercel
+💻 GitHub:
+https://github.com/sovanpal7319
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+🌐 Portfolio:
+https://sovan-ai-portfolio.vercel.app
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## ⭐ If you like this project
+
+Give this repository a ⭐ on GitHub.
