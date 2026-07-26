@@ -15,7 +15,7 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Sovan Pal | AI Engineer & ML Researcher",
+  title: "Sovan Pal | AI & ML Student",
   description:
     "Portfolio of Sovan Pal — AI Engineer, Machine Learning Enthusiast, and Deep Learning Developer. Explore projects in NLP, Reinforcement Learning, and Intelligent Systems.",
   keywords: [
